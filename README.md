@@ -21,3 +21,13 @@ PC
 
 <h2>Screenshots</h2>
 
+![Screenshot 2024-03-30 032033](https://github.com/Fwofy/Lompat-Si-Kancil-Lompat/assets/128760862/5e89e756-2218-4a73-8e04-2b15ef5cc15a)
+
+![Screenshot 2024-03-30 032418](https://github.com/Fwofy/Lompat-Si-Kancil-Lompat/assets/128760862/bdb6b2f0-114a-45d2-bfed-45083d191551)
+
+<h2><strong>Development By</strong></h2>
+
+LAKI-LAKI TEEGA
+- Hakimi
+- Izzuddin
+- Faiz

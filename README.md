@@ -1,2 +1,1 @@
-# Lompat-Si-Kancil-Lompat-
-Final project for course DGP1013 - Educational Games Development
+<h1>Welcome To Lompat! Si Kancil, Lompat Game Project</h1>
